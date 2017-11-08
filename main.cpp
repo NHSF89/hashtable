@@ -1,3 +1,7 @@
+/*
+Still building an interface, general tests attached. Backend is up and running
+*/
+
 #include "hash.h"
 
 int main(int argc, char *argv[]) {
@@ -34,10 +38,6 @@ int main(int argc, char *argv[]) {
 		
 	}
 	
-	
-	
-	
-	
-	
+
 	return 0;
 }
