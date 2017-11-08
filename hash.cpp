@@ -192,5 +192,4 @@ void hash::removeItem(string name)
 			cout << name << " was successfully removed from the table." << endl; 
 		}
 	}
-
 }
