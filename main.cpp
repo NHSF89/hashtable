@@ -35,7 +35,6 @@ int main(int argc, char *argv[]) {
 		
 		if (name !="END")
 			obj.removeItem(name);
-		
 	}
 	
 
