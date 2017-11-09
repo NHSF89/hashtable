@@ -17,7 +17,7 @@ int hash::Hash(string key)
 	int index;
 
 	for (int i = 0; i < key.length(); i++)
-		hash = hash + (int)key[i];
+		hash = ((hash + (int)key[i])*3)^2;
 	
 	index = hash % table;
 	
